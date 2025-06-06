@@ -30,13 +30,14 @@ Estudante de Ciência da Computação da Unisul (Universidade do Sul de Santa Ca
 <table>
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpnunes012&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img height="200em" width="450em" src="https://github-readme-stats.vercel.app/api?username=jpnunes012&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     </td>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpnunes012&layout=compact&theme=tokyonight"/>
+      <img height="200em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpnunes012&layout=compact&theme=tokyonight"/>
     </td>
   </tr>
 </table>
+
 
 
 
