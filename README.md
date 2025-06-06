@@ -2,7 +2,7 @@
 
 Estudante de Ciência da Computação da Unisul (Universidade do Sul de Santa Catarina) atualmente no 3º semestre, com interesse em desenvolvimento de software e sistemas inteligentes.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/joão-pedro-nunes-ramos-e-silva-1aa24a344)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joão-pedro-nunes-ramos-e-silva-1aa24a344)
 [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpjoaopedronunes@gmail.com)
 
 ---
@@ -44,7 +44,7 @@ Estudante de Ciência da Computação da Unisul (Universidade do Sul de Santa Ca
 
 ## 📫 Como me encontrar
 
-- LinkedIn: [linkedin.com](www.linkedin.com/in/joão-pedro-nunes-ramos-e-silva-1aa24a344)
+- LinkedIn: [linkedin.com](https://www.linkedin.com/in/joão-pedro-nunes-ramos-e-silva-1aa24a344)
 - Portfólio: [seusite.dev](https://seusite.dev)
 - E-mail: [jpjoaopedronunes@gmail.com](mailto:jpjoaopedronunes@gmail.com)
 
