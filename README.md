@@ -1,6 +1,6 @@
 👋 Olá, sou o João!
 
-Estudante de Ciência da Computação da Unisul (Universidade do Sul de Santa Catarina) atualmente no 3º semestre, com interesse em desenvolvimento de software e sistemas inteligentes.
+Estudante de Ciência da Computação da Unisul (Universidade do Sul de Santa Catarina) atualmente no 4º semestre, com interesse em desenvolvimento de software e sistemas inteligentes.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joão-pedro-nunes-ramos-e-silva-1aa24a344)
 [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpjoaopedronunes@gmail.com)
